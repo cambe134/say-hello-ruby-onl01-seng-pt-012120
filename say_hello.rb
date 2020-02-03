@@ -1,3 +1,3 @@
-def say_hello(phrase)
-  phrase= "Hello Kent Beck!"
+def say_hello(Kent Beck)
+  puts="Hello Kent Beck!"
 end
