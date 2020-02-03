@@ -1,2 +1,3 @@
-def say_hello("Kent Beck")
+def greeting(name)
+  puts "Hello #{name}"
 end
